@@ -1,10 +1,7 @@
 red
 green
 blue
-<<<<<<< HEAD
 yellow
 white
-=======
 john
 michael
->>>>>>> his-branch
